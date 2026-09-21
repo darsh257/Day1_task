@@ -1,0 +1,62 @@
+[
+    {
+        "date": "2026-09-02",
+        "category": "Food",
+        "description": "College canteen",
+        "amount": 120
+    },
+    {
+        "date": "2026-09-04",
+        "category": "Transport",
+        "description": "Bus",
+        "amount": 80
+    },
+    {
+        "date": "2026-09-05",
+        "category": "Food",
+        "description": "Lunch",
+        "amount": 180
+    },
+    {
+        "date": "2026-09-07",
+        "category": "Entertainment",
+        "description": "Movie",
+        "amount": 350
+    },
+    {
+        "date": "2026-09-09",
+        "category": "Education",
+        "description": "Books",
+        "amount": 600
+    },
+    {
+        "date": "2026-09-11",
+        "category": "Food",
+        "description": "Dinner",
+        "amount": 250
+    },
+    {
+        "date": "2026-09-13",
+        "category": "Transport",
+        "description": "Auto",
+        "amount": 150
+    },
+    {
+        "date": "2026-09-15",
+        "category": "Food",
+        "description": "Snacks",
+        "amount": 200
+    },
+    {
+        "date": "2026-09-17",
+        "category": "Entertainment",
+        "description": "Gaming",
+        "amount": 500
+    },
+    {
+        "date": "2026-09-19",
+        "category": "Food",
+        "description": "Dinner",
+        "amount": 300
+    }
+]
