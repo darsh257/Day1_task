@@ -102,12 +102,3 @@ A rule-based workflow is suitable when the steps are fixed and predictable. A pl
 
 A **plain chatbot** is mainly an LLM that generates responses. A **rule-based workflow** follows predefined steps and conditions. An **AI agent** combines an LLM, tools, and a loop to dynamically select actions, observe results, and continue working toward the user's goal.
 
-Therefore:
-
-```text
-Chatbot       = LLM → Response
-
-Workflow      = Rules → Fixed Actions → Result
-
-AI Agent      = LLM + Tools + Loop → Task Completion
-```
